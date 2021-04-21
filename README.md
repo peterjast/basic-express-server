@@ -2,7 +2,7 @@
 
 Author: Peter Staker
 
-Deployed URL:
+Deployed URL: [https://ps-basic-express-server.herokuapp.com/](https://ps-basic-express-server.herokuapp.com/)
 
 ## How to run locally
 
